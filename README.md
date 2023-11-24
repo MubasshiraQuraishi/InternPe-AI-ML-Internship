@@ -1,1 +1,1 @@
-This repository contains the tasks assigned to me during my internship at Internpe. I have successfully completed three projects, and you can find the associated Jupyter Notebook files attached. Stay tuned for more updates as I continue to work on additional projects.
+This repository contains the tasks assigned to me during my internship at Internpe. I have successfully completed four projects, and you can find the associated Jupyter Notebook files attached.
